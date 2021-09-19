@@ -1,0 +1,3 @@
+gcc -Wall -g business/*.c domain/*.c dynamic_array/*.c persistency/*.c presentation/*.c tests/*.c validation/*.c utils/*.c undo_redo_inv_ops/*.c main.c -o a
+
+valgrind --leak-check=full ./a
