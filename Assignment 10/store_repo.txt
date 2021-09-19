@@ -1,0 +1,10 @@
+XL,Black,599.99,4,https://www.gobicashmere.com/products/single-breasted-mens-coat-black/
+M,Black,499.99,2,https://www.gobicashmere.com/products/stand-collar-3-4-sleeve-coat-black/
+L,Charcoal,599,7,https://www.gobicashmere.com/products/single-breasted-mens-coat-charcoal
+XS,Red,359.4,4,https://www.gobicashmere.com/products/belted-short-coat-red/
+S,Beige,599,1,https://www.gobicashmere.com/products/stand-collar-coat/
+M,Green,359.4,9,https://www.gobicashmere.com/products/belted-short-coat-greener-pastures/
+XXS,Taupe,359.4,7,https://www.gobicashmere.com/products/shawl-collar-long-coat-tan
+L,Blues,599,3,https://www.gobicashmere.com/products/single-breasted-mens-coat-dress-blues
+M,Midnight,359.4,5,https://www.gobicashmere.com/products/belted-short-coat-midnight
+L,Camel,399.5,8,https://www.gobicashmere.com/products/drap-collar-reversible-coat-camel

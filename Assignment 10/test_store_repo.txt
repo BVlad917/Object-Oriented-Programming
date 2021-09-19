@@ -1,0 +1,3 @@
+XXL,Beige,80.99,13,link1
+L,Blue,13.14,10,link2
+M,Green,54.57,20,link3
